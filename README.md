@@ -6,7 +6,7 @@
 
 2) Navigate to the folder containing blockchain.js
 
-3) Use the command ' node blockchain.js ' to run the code.
+3) Use the command ` node blockchain.js ` to run the code.
 
 ## Sample output:
 
