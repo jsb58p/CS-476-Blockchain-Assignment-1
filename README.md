@@ -2,7 +2,7 @@
 
 ## How to run the code:
 
-1) Open the terminal (Ctrl + Alt + T)
+1) While inside the Ubuntu BlockchainVM, open the terminal (Ctrl + Alt + T)
 
 2) Navigate to the folder containing blockchain.js
 
