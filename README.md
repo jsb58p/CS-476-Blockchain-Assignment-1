@@ -10,11 +10,11 @@
 
 ## Sample output:
 
-![alt text](https://github.com/jsb58p/CS-476-Blockchain-Assignment-1/blob/main/console_output1.png?raw=true)
+![console output 1 img](https://github.com/jsb58p/CS-476-Blockchain-Assignment-1/blob/main/console_output1.png?raw=true)
 
-![alt text](https://github.com/jsb58p/CS-476-Blockchain-Assignment-1/blob/main/console_output2.png?raw=true)
+![console output 2 img](https://github.com/jsb58p/CS-476-Blockchain-Assignment-1/blob/main/console_output2.png?raw=true)
 
-![alt text](https://github.com/jsb58p/CS-476-Blockchain-Assignment-1/blob/main/console_output3.png?raw=true)
+![console output 3 img](https://github.com/jsb58p/CS-476-Blockchain-Assignment-1/blob/main/console_output3.png?raw=true)
 
 ## Reflection:
 
